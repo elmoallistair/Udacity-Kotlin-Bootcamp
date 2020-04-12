@@ -5,9 +5,9 @@ If you start with 2 fish, and they breed twice, producing 71 offspring the first
 * **Hint**: You can call the methods on numbers, and Kotlin will convert them to objects for you.
 * **Bonus question**: What is special about all the numbers of fish?
 
-## Solution
+### Solution Code
 ```
 2.plus(71).plus(233).minus(13).div(30).plus(1)
 ```
-Bonus question answer: 
-> all of the number is **prime**
+### Bonus question answer: 
+> If you've noticed, all fish numbers above are **prime**.
