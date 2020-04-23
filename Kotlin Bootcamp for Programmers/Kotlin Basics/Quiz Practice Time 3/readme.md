@@ -1,5 +1,4 @@
 ## Quiz Question
-
 Which of these options are good reasons to explicitly make a list immutable? There may be more than 1 correct answer.
 * It reduces errors in general.
 * Prevents accidental changing of objects that were meant to be unchangeable.
@@ -12,10 +11,7 @@ Which of these options are good reasons to explicitly make a list immutable? The
 > * Prevents accidental changing of objects that were meant to be unchangeable.
 > * In a multi-threaded environment, makes the variable thread safe, because once it has been assigned by the initial thread, no thread can change it.
 
-
-
 ## Practice Time
-
 Looping over arrays and lists is a fundamental technique that has a lot of flexibility in Kotlin. Let's practice.<br>
 **Basic example**
 1. Create an integer array of `numbers` called numbers, from 11 to 15.

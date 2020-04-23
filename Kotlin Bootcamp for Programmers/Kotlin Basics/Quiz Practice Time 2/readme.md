@@ -1,6 +1,4 @@
-# Quiz: Practice Time
-
-## Do the Following Tasks in REPL
+# Do the Following Tasks in REPL
 
 ## Practice Time
 > 1. Create three String variables for `trout`, `haddock`, and `snapper`.
@@ -20,6 +18,7 @@
 > * If the length of the `fishName` is 0, print an error message.
 > * If the length is in the range of 3...12, print "Good fish name".
 > * If it's anything else, print "OK fish name".
+>
 > ### Solution Code
 > ```
 > when(fishName.length) {

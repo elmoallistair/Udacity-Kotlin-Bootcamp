@@ -11,6 +11,10 @@ when (welcomeMessage.length) {
 
 ## Quiz Question
 What will the code above print?
+* "Nothing to say?"
+* "Perfect"
+* "Too long!"
+* It won't display anyting because there's a syntax error
 
 ## Quiz Answer
 > "Perfect"
